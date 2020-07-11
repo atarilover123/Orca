@@ -1,4 +1,4 @@
-Sessions, examples and tests for live coding language [Orca](https://hundredrabbits.itch.io/orca) 
+Some sessions, examples and tests for live coding language [Orca](https://hundredrabbits.itch.io/orca) 
 
 # ORCΛ
 
